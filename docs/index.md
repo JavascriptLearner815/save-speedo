@@ -8,3 +8,5 @@ Welcome to the documentation! Here you can find how to play the game! Go to [the
 The [main branch][main] is the only available game, and it is the most recent version.
 
 To run the game, go to [repl.it][repl] and simply run it.
+
+The game's [repl.it][repl] code is from the [main branch][main].
