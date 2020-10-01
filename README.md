@@ -19,4 +19,4 @@ A simple Python game where you try to retrieve SpeedoThreeSixty.
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
     Email: deanlovesmargie@gmail.com
-    Mail: For privacy reasons, please contact using email.
+    Mail: ZIP 55764
