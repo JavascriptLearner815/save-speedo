@@ -1,3 +1,6 @@
+[repl]: https://repl.it/@JavascriptLearn/save-speedo
+[docs]: https://javascriptlearner815.github.io/save-speedo
+
 # save-speedo
 ## Description
 A simple Python game where you try to retrieve SpeedoThreeSixty.
@@ -20,3 +23,5 @@ A simple Python game where you try to retrieve SpeedoThreeSixty.
     
     Email: deanlovesmargie@gmail.com
     Mail: ZIP 55764
+## Play
+You can play the game on [repl.it][repl]. [Need help?][docs]

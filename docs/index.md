@@ -25,7 +25,7 @@
 ## Documentation
 Welcome to the documentation! Here you can find how to play the game! Go to [the wiki][wiki] for the FAQ.
 ### Play the Game
-The [main branch][main] is the only available game, and it is the most recent version.
+The [main branch][main] is the only available version on [repl.it][repl], and it is the most recent version.
 
 To run the game, go to [repl.it][repl] and run it as shown in [this video][run].
 
