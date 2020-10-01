@@ -1,0 +1,15 @@
+# The CODEOWNERS file is a folder or file
+# followed by a GitHub mention or
+# a user's public GitHub email.
+# This CODEOWNERS file is for the branch 
+# main. Each branch has its own CODEOWNERS
+# file - this is important to remember.
+
+/docs/ @JavascriptLearner815
+/code/ @JavascriptLearner815
+/.github/ @JavascriptLearner815
+.gitignore @JavascriptLearner815
+CODE_OF_CONDUCT.md @JavascriptLearner815
+LICENSE @JavascriptLearner815
+README.md @JavascriptLearner815
+CONTRIBUTING.md @JavascriptLearner815
