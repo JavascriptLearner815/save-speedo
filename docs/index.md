@@ -7,6 +7,8 @@ Welcome to the documentation! Here you can find how to play the game! Go to [the
 ### Play the Game
 The [main branch][main] is the only available game, and it is the most recent version.
 
-To run the game, go to [repl.it][repl] and simply run it.
+To run the game, go to [repl.it][repl] and run it, as shown below:
+
+![Clicking Run to see the Output](https://www.loom.com/share/cf6f1fc8f0274e529f4bd1bf51d4aa55)
 
 The game's [repl.it][repl] code is from the [main branch][main].
