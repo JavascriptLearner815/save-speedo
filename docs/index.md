@@ -1,7 +1,7 @@
 [wiki]: https://github.com/JavascriptLearner815/save-speedo/wiki
 [main]: https://github.com/JavascriptLearner815/save-speedo/tree/main
 [repl]: https://repl.it/@JavascriptLearn/save-speedo
-[run]: https://www.loom.com/share/cf6f1fc8f0274e529f4bd1bf51d4aa55
+[run]: about:blank
 
 ## Documentation
 Welcome to the documentation! Here you can find how to play the game! Go to [the wiki][wiki] for the FAQ.
